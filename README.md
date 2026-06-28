@@ -44,7 +44,7 @@ The dataset contains the following features:
 
 **Ahnaf Hasan**
 
-GitHub: [@ahnaf-hasan](https://github.com/ahnaf-hasan)
+GitHub: [@Ahnaf-Hasan](https://github.com/ahnaf-hasan)
 
 
 This project is intended for educational purposes.
