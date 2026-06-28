@@ -40,7 +40,11 @@ The dataset contains the following features:
 
 ## Author
 
-**github.com/ahnaf-hasan**
+## Author
+
+**Ahnaf Hasan**
+
+GitHub: [@ahnaf-hasan](https://github.com/ahnaf-hasan)
 
 
 This project is intended for educational purposes.
